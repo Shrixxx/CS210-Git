@@ -1,3 +1,5 @@
+# Maynooth CS210
+
 A repository for the 2024 CS210 year
 
 This was created with the intention of learning and improving from each others code, if you plan on just copying code then good luck with the 90% weighed exam.
