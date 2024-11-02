@@ -11,4 +11,4 @@ Thank you :)
 
 
 
-ps if the college has a problem with this contatct me and i'll take it down
+<sup> ps if the college has a problem with this contatct me and i'll take it down </sup>
