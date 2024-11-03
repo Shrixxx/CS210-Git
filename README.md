@@ -8,7 +8,3 @@ A folder will exist for each lab and if you are submitting your code it should b
 This is just for the convenience of finding files and making sure they don't all have the same name.
 
 Thank you :)
-
-
-
-<sup> ps if the college has a problem with this contatct me and i'll take it down </sup>
